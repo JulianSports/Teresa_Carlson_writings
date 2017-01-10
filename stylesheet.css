@@ -18,6 +18,7 @@
         
             .TextWrap {
               float: right;
+              margin: 10px;
     }
     li {
       display: inline;
